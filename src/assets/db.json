@@ -1,0 +1,24 @@
+{
+  "employee": [
+    {
+      "id": 101,
+      "name": "saranya",
+      "dob": "01-06-2000",
+      "salary": 888888888,
+      "email": "sara@gmail.com"
+    }
+  ],
+  "user": [
+    {
+      "id": 11,
+      "name": "sre"
+    },
+    {
+      "name": "",
+      "email": "Devikaballath@gmail.com",
+      "password": "asdfg",
+      "cpwd": "asdfg",
+      "id": 12
+    }
+  ]
+}
