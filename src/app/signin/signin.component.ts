@@ -32,9 +32,9 @@ export class SigninComponent implements OnInit {
       }
       )
       if(user){
-        alert("user is existed");
+        alert("login successful");
       }else{
-        alert("user does not exist");
+        alert("login failed");
       }
 
       })
